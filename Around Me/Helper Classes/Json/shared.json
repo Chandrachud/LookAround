@@ -1,0 +1,28 @@
+{
+    "shared": [
+               {
+               "sharedlocation": "Charlotte, NC",
+               "sharedname": "Danley, Ron"
+               },
+               {
+               "sharedlocation": "The Hotel Minneapolis, Minneapolis, Minnesota",
+               "sharedname": "Mavan, John"
+               },
+               {
+               "sharedlocation": "Client Bank, New York",
+               "sharedname": "Bob, Mavric"
+               },
+               {
+               "sharedlocation": "Client1 Bank, NC",
+               "sharedname": "Danley, Ron"
+               },
+               {
+               "sharedlocation": "Charlotte, NC",
+               "sharedname": "Mavan, John"
+               },
+               {
+               "sharedlocation": "Client2 Bank, NC",
+               "sharedname": "Danley, Ron"
+               }
+               ]
+}

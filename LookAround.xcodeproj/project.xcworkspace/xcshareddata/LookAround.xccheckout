@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E20A864-2B0D-49A6-AA62-0A7CBF4B2FF8</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AA1EF955FE87531522D1F4320EA8D3B28C9204F8</key>
+		<string>github.com:nielswh/iPhone-AR-Toolkit.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AA1EF955FE87531522D1F4320EA8D3B28C9204F8</key>
+		<string>iPhone-AR-Toolkit/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:nielswh/iPhone-AR-Toolkit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AA1EF955FE87531522D1F4320EA8D3B28C9204F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA1EF955FE87531522D1F4320EA8D3B28C9204F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPhone-AR-Toolkit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

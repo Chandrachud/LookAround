@@ -1,0 +1,79 @@
+{
+	"debug_info" =     (
+	);
+	"html_attributions" =     (
+		"Eintr\U00e4ge aus <a href=\"http://www.gelbeseiten.de/\">GelbeSeiten\U00aeVerlagen</a>"
+	);
+	"next_page_token" = "CmRWAAAANwNrRg5nBRa6jsBxnZgEaIqt16IQ4VCx2jVN2gykJDYznUz7MNMfJZAtSllzPVYYbD1p1PQ33n0KZ_iTePpaLgUp-ru__dibulcsdo9iDRbLrDl2VRxJ2t10amGQtyRgEhA5QpuiFOxtZxc0yOUSaJj-GhT3hemgLr0Xoszq_ML3LA31GtayEw";
+	results =     (
+	{
+	geometry =             {
+	location =                 {
+	lat = "50.514008";
+	lng = "8.387684";
+	};
+	};
+	icon = "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png";
+	id = 52b9465e06a42601fe1b8b48324d7a7572ad1300;
+	name = "Schloss Braunfels";
+	photos =             (
+	{
+	height = 485;
+	"html_attributions" =                     (
+	"Von einem Google-Nutzer"
+	);
+	"photo_reference" = "CoQBeAAAAL3CQ4wBaGNB8CQZNOGdqgBD0fP-TV0Mk1eKDRePYpxT_KM4tmOZryHOs2EivtlX5aD7sitZBiLc0nFEHl_9nZ4-6ORw2_Ex2jc5pGngtltHKCHETjGaFKSRi5uhTwxPaZlUaZvhl5qQxPn8wHPUcocJzrVDObN4X1CuEyyQ4qlYEhDM0oMZlc0SJ_ZHZXLw2PvEGhRSJdfUAG9c8zoHqAmjwOIecW9zGQ";
+	width = 688;
+	}
+	);
+	rating = 4;
+	reference = "CnRvAAAAfwSZatxRSutp6hN3ayMZkwiWuQAfkSeXHgsDW35mzWa89jqGXEu830AbGCmGpjv0maLjaVtNBA25UG-GpprEpPUYv8hRkwXa0-3Al7xhxpyQMgkW75nN4atpcU718DqAyCfWRaanBryI-YqI0BrncxIQkt4EEEQ0UYIEp-g6IomqehoUl5qQSdavqgX51a6PVP_fcBxtMHQ";
+	types =             (
+	museum,
+	establishment
+	);
+	vicinity = "Belzgasse 1, Braunfels";
+	},
+	{
+	geometry =             {
+	location =                 {
+	lat = "50.51647";
+	lng = "8.383039999999999";
+	};
+	};
+	icon = "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png";
+	id = 7e2d9ec40900e5309c13f869766a7df1341342b7;
+	name = "Hotel Brauhaus Oberm\U00fchle";
+	"opening_hours" =             {
+	"open_now" = 1;
+	};
+	rating = "3.5";
+	reference = "CoQBdgAAANTVnNYlB9uVn7r6MoM6yIQBepcJoYrX9siR7FZ7uMwxxEdXu4lAB1p9RMsKE7Lr7RY4CcBEbKtG3RnpNST_UZocboFmXMmPMaQ4292uTGYvVxTllznM9lt6X7qIgpBCducvux-MH3BwNFgD6LgcZgj0U-UGarKy6bJtgrviRF_kEhBWpiKa0ksoZjoM6FfGVLKHGhQDgaGS5Zl4e-6q-OuC3raONu-2HA";
+	types =             (
+	restaurant,
+	lodging,
+	food,
+	establishment
+	);
+	vicinity = "Gebr\U00fcder-Wahl-Stra\U00dfe 19, Braunfels";
+	},
+	{
+	geometry =             {
+	location =                 {
+	lat = "50.525986";
+	lng = "8.38242";
+	};
+	};
+	icon = "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png";
+	id = 253a1b4729beb4b97b47d68e7c906d6adcbe0b82;
+	name = "Orthop\U00e4dische Klinik Braunfels";
+	reference = "CoQBfAAAAD6EHnaMQ2JbrbAIn5ul9Wt4POhtkBfL0mhdL3myH1qdRiI5BD37VZtOAJxz0Oe76sqm5i89ymtKdXhXIq8SBgS3meabHMvpa6qZXwSzB0u5N_NmctylzSYbg3jS-F-qkXo8_0KeMn58QoydFxT9P0Etu-rWTIQ06QIvSYFeTb2YEhCus-h3vgG-GGvjnIQ6ysRbGhS2bnhw0ySDb_Hu_bMscf1aCyX4Bw";
+	types =             (
+	hospital,
+	cafe,
+	food,
+	health,
+	establishment
+	);
+	vicinity = "Hasselbornring 5, Braunfels";
+	},

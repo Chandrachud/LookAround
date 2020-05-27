@@ -1,0 +1,52 @@
+[ { "contacts" : [ { "comments" : [ { "comment" : "asjkhsajfkhsdfjklhsdfkjhsdklfjhdskjhfkjsdhfajksldhflsdjkhf",
+"source" : "Moe Sizlac",
+"timestamp" : "2014-05-22 22:15"
+},
+{ "comment" : "uiyuiw3oy4723oy4hjklwehrweljhrliwueryiouywer",
+"source" : "Bart Simpson",
+"timestamp" : "2014-05-18 17:12"
+}
+],
+"contact" : [ { "work" : "+1.434.224.7654" },
+{ "work" : "+1.343.443.5674" },
+{ "Personal" : "+1.888.443.5022" },
+{ "email" : "robert.mayer@aig.com" }
+],
+"firstName" : "Robert",
+"image" : "profile_1.png",
+"lastName" : "Mayer"
+},
+{ "comments" : [ { "comment" : "Starling city",
+"source" : "Barry Alan",
+"timestamp" : "2032-05-22 22:15"
+},
+{ "comment" : "The stakeholders differentiate the visionary enhanced data capture. The stakeholders prioritize our outside-in, leveraged, resilient and high-level mindsets on-the-fly, whereas Management Information System and leadership enforce the top-level brand images. New, progressive, roles and responsibilities synergize the project leader; nevertheless the sales manager reaches out our extensible tactics. The human resources reach out our enterprise-wide footprint. The key people maximize optimal trigger events. The standard-setters quickly build the decentralized, controlled, reward as a consequence of sustained growth. Our gut-feeling is that the community whiteboards multi-channel and value-driven case studies. The partners 24/7 structure interconnected, underlying and strategy-focused challenges reaped from our rock-solid throughput increase; this is why the key people embrace extensible review cycles as a consequence of solid efficiency gain. The Chief Operations Officer reaches out an above-average industry. The partners efficiently maximize a compliant interdependency, while cascading guidelines inspire the Chief Business Planning Officer because a market-driven and idiosyncratic objective produces measured throughput increase.",
+"source" : "Seymour Skinner",
+"timestamp" : "2014-05-03 10:12"
+}
+],
+"contact" : [ { "work" : "+1.444.223.7654" },
+{ "email" : "gary.jennings@aig.com" }
+],
+"firstName" : "Gary",
+"image" : "profile_2.png",
+"lastName" : "Jennings"
+},
+{ "comments" : [ { "comment" : "Starling city",
+"source" : "Bruce Wayne",
+"timestamp" : "2032-05-22 22:15"
+},
+{ "comment" : "The stakeholders differentiate the visionary enhanced data capture. The stakeholders prioritize our outside-in, leveraged, resilient and high-level mindsets on-the-fly, whereas Management Information System and leadership enforce the top-level brand images. New, progressive, roles and responsibilities synergize the project leader; nevertheless the sales manager reaches out our extensible tactics. The human resources reach out our enterprise-wide footprint. The key people maximize optimal trigger events. The standard-setters quickly build the decentralized, controlled, reward as a consequence of sustained growth. Our gut-feeling is that the community whiteboards multi-channel and value-driven case studies. The partners 24/7 structure interconnected, underlying and strategy-focused challenges reaped from our rock-solid throughput increase; this is why the key people embrace extensible review cycles as a consequence of solid efficiency gain. The Chief Operations Officer reaches out an above-average industry. The partners efficiently maximize a compliant interdependency, while cascading guidelines inspire the Chief Business Planning Officer because a market-driven and idiosyncratic objective produces measured throughput increase.",
+"source" : "Seymour Skinner",
+"timestamp" : "2014-05-03 10:12"
+}
+],
+"contact" : [ { "Office" : "+1.997.054.1987" },
+{ "Work1" : "+1.346.443.5674" },
+{ "email" : "lisa.simpson@aig.com" }
+],
+"firstName" : "Lisa",
+"image" : "profile_3.png",
+"lastName" : "Simpson"
+}
+] } ]
